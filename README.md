@@ -1,6 +1,5 @@
-## Идея моего проекта: разораться чтотакое трансформатор, зачем он нужен и какие проблеммы возникают при его использовании
-## Тип моего проекта: сайи и приложение, помогающее в создании собственного трансворматора 
-> 
+## Идея моего проекта: разобраться что такое микроконтроллек, зачем он нужен и какие проблеммы возникают при его использовании
+## Тип моего проекта: сайт и приложение
 
 ## Библиотеки, которые я буду использовать
 - flask
@@ -8,8 +7,9 @@
 - pygame
 
 ## Референсы, которые мне пригодятся
-- Референс 1 - [сайт](https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora)
+- Референс 1 - [сайт]([https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora](https://robotclass.ru/tutorials/chto-takoe-mikrokontroller/)) [сайт](https://supereyes.ru/articles/other/mikrokontrollery-i-ikh-ustroystvo/)
 - Референс 2 - калькулятор инергоэфективности дома
 
 ## Гайды-статьи, где есть полезная для меня информация
-Принцип работы трансформатора [сайт](https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora)
+Что такое микроконтраллер [сайт]([https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora](https://robotclass.ru/tutorials/chto-takoe-mikrokontroller/))
+Принцип работы [сайт](https://supereyes.ru/articles/other/mikrokontrollery-i-ikh-ustroystvo/)
