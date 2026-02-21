@@ -8,8 +8,8 @@
 - pygame
 
 ## Референсы, которые мне пригодятся
-- Референс 1 - [](https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora)
+- Референс 1 - [сайт](https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora)
 - Референс 2 - калькулятор инергоэфективности дома
 
 ## Гайды-статьи, где есть полезная для меня информация
-Принцип работы трансформатора [](https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora)
+Принцип работы трансформатора [сайт](https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora)
