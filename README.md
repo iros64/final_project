@@ -7,9 +7,9 @@
 - pygame
 
 ## Референсы, которые мне пригодятся
-- Референс 1 - [сайт]([https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora](https://robotclass.ru/tutorials/chto-takoe-mikrokontroller/)), [сайт](https://supereyes.ru/articles/other/mikrokontrollery-i-ikh-ustroystvo/)
+- Референс 1 - [сайт](https://robotclass.ru/tutorials/chto-takoe-mikrokontroller/), [сайт](https://supereyes.ru/articles/other/mikrokontrollery-i-ikh-ustroystvo/)
 - Референс 2 - калькулятор инергоэфективности дома
 
 ## Гайды-статьи, где есть полезная для меня информация
-Что такое микроконтраллер [сайт]([https://dip8.ru/articles/transformatory-chto-eto/?ysclid=mluyuyd2au113047623#ustrojstvo-transformatora](https://robotclass.ru/tutorials/chto-takoe-mikrokontroller/))
-Принцип работы [сайт](https://supereyes.ru/articles/other/mikrokontrollery-i-ikh-ustroystvo/)
+- Что такое микроконтраллер [сайт](https://robotclass.ru/tutorials/chto-takoe-mikrokontroller/)
+- Принцип работы [сайт](https://supereyes.ru/articles/other/mikrokontrollery-i-ikh-ustroystvo/)
